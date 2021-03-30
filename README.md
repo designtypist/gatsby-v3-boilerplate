@@ -8,11 +8,11 @@
   Gatsby v3 Boilerplate
 </h1>
 
-Includes:
-- Tailwindcss v2
+Feature includes:
+- Tailwindcss
 - FontAwesome
 - Prettier
-- 
+
 ## 🚀 Quick start
 
 1.  **Create a Gatsby site.**
